@@ -1,4 +1,4 @@
-package org.sam;
+package org.sam.hello;
 
 
 import org.junit.Test;

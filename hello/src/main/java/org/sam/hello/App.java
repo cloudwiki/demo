@@ -1,4 +1,4 @@
-package org.sam;
+package org.sam.hello;
 
 /**
  * Hello world!
